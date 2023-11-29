@@ -1,0 +1,8 @@
+{
+  "name": "Multicines",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a88e4a42"
+}
