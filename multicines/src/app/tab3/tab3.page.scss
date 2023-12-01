@@ -1,0 +1,162 @@
+.header {
+    width: 100%;
+    height: 7rem;
+    background-color: #0D0D0D;
+}
+
+.logo {
+    width: 25%;
+    height: 6rem;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.home{
+    margin-left: 50%;
+    margin-bottom: 7.5%;
+}
+.img{
+    border-top: solid red;
+    width: 80%;
+    height: 50%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.body,
+.body * {
+  box-sizing: border-box;
+}
+.body {
+  width: 430px;
+  height: 146px;
+  position: relative;
+  overflow: hidden;
+}
+.button-buy {
+  background: #ffa800;
+  border-radius: 30px;
+  width: 146px;
+  height: 38px;
+  position: absolute;
+  left: 234px;
+  top: 85px;
+  overflow: hidden;
+}
+.buy {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: calc(50% - 25px);
+  top: calc(50% - 13px);
+  width: 51px;
+  height: 25px;
+}
+.time-movie {
+  width: 172px;
+  height: 51px;
+  position: absolute;
+  left: 0px;
+  top: 76px;
+  overflow: hidden;
+}
+.r {
+  background: #201b1b;
+  border-radius: 50px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 135px;
+  top: 14px;
+  overflow: hidden;
+}
+.r2 {
+  color: #b02020;
+  text-align: left;
+  font: 400 12px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 6px;
+  top: 2px;
+}
+.clock {
+  height: auto;
+  position: absolute;
+  right: 75%;
+  left: 13.37%;
+  width: 11.63%;
+  bottom: 29.41%;
+  top: 31.37%;
+  height: 39.22%;
+  overflow: visible;
+}
+._2-h-05-min {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 16px;
+  width: 74px;
+  height: 15px;
+}
+.info-movie {
+  width: 260px;
+  height: 48px;
+  position: absolute;
+  left: 155px;
+  top: 16px;
+  overflow: hidden;
+}
+._15-a-os {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 17px;
+  top: 16px;
+  width: 74px;
+  height: 17px;
+}
+.el-exorcista-creyente {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 6px;
+  width: 97px;
+  height: 37px;
+}
+.estreno-cart {
+  background: #f64ddb;
+  border-radius: 15px;
+  width: 120px;
+  height: 36px;
+  position: absolute;
+  left: 15px;
+  top: 18px;
+  overflow: hidden;
+}
+.estreno {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 8px;
+  width: 62px;
+  height: 19px;
+}
+.star {
+  height: auto;
+  position: absolute;
+  right: 75%;
+  left: 8.33%;
+  width: 16.67%;
+  bottom: 25%;
+  top: 22.22%;
+  height: 52.78%;
+  overflow: visible;
+}
+h1{
+    color: rgba(226, 226, 226, 0.61);
+}
